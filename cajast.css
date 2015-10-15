@@ -1,0 +1,24 @@
+.jess{
+	border-top:20px solid #FF69B4;
+	border-bottom: 20px solid #FF69B4;
+	border-right: 10px solid #FF69B4;
+	border-left: 10px solid #FF69B4;
+	margin:120px 60px 30.5px 60px ;
+	background-color:#FFC0CB; 
+	padding:40px 20px 70px 100px;
+	border-radius: 10px;
+}	
+.kathe{
+	background-color:white;
+	border:2px dashed #FF00FF;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	font-size:30px;
+	color:#00FFFF;
+	font-style:italic;
+	font-weight:50; 
+}
+body{
+	background-color: #EE82EE;
+}
